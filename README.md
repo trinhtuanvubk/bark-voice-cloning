@@ -1,4 +1,4 @@
-# bark-voice-cloning
+# Bark-Voice-Cloning
 
 ## Repository Description
 
