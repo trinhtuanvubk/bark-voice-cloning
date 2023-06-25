@@ -1,0 +1,20 @@
+# for hubert
+
+audiolm-pytorch
+fairseq=0.12.0
+huggingface-hub
+sentencepiece
+transformers
+encodec
+soundfile; platform_system == "Windows"
+sox; platform_system != "Windows"
+
+# for clone (encodec, transformers )
+
+boto3
+funcy
+numpy
+scipy
+tokenizers
+torch
+tqdm
