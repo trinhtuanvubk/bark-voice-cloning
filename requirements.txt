@@ -6,8 +6,8 @@ huggingface-hub
 sentencepiece
 transformers
 encodec
-soundfile; platform_system == "Windows"
-sox; platform_system != "Windows"
+soundfile
+sox
 
 # for clone (encodec, transformers )
 
