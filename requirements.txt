@@ -1,9 +1,9 @@
 # for hubert
 
-audiolm-pytorch
+audiolm-pytorch==1.1.4
 wheel
 setuptools
-fairseq==0.12.0
+fairseq
 huggingface-hub
 sentencepiece
 transformers
