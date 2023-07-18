@@ -1,6 +1,8 @@
 # for hubert
 
 audiolm-pytorch
+wheel
+setuptools
 fairseq==0.12.0
 huggingface-hub
 sentencepiece
