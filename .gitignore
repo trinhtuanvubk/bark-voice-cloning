@@ -1,3 +1,5 @@
 /trash/
 **/__pycache__/**
 /data/
+**/*.zip/
+**/*.pt*
