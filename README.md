@@ -37,3 +37,4 @@ python3 main.py --scenario clone_voice
 ### Todo
 - [ ] Prepare Vietnamese data
 - [ ] Traning Hubert with Vietnamese data
+- [ ] Modify params for beter results
