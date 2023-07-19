@@ -1,8 +1,8 @@
 import scenario
-import util
+from utils import get_args
 
 def main():
-    args = util.get_args()
+    args = get_args()
     method = getattr(scenario, args.scenario)
     method(args)
 
