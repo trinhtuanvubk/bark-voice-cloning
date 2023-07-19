@@ -1,5 +1,3 @@
-large_quant_model = False  # Use the larger pretrained model
-device = 'cuda'  # 'cuda', 'cpu', 'cuda:0', 0, -1, torch.device('cuda')
 
 import numpy as np
 import torch
