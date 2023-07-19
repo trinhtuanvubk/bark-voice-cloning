@@ -33,3 +33,7 @@ python3 main.py --scenario generate_npz
 ```
 python3 main.py --scenario clone_voice
 ```
+
+### Todo
+- [ ] Prepare Vietnamese data
+- [ ] Traning Hubert with Vietnamese data
