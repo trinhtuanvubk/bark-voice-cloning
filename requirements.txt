@@ -3,6 +3,7 @@
 audiolm-pytorch==1.1.4
 wheel
 setuptools
+tensorboardX
 fairseq
 huggingface-hub
 sentencepiece
